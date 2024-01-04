@@ -41,6 +41,8 @@ F. Analysis
 
 The AI/ML project employs a robust combination of transfer learning and ensemble learning techniques to predict Alzheimer's disease, with a diverse set of pre-trained models, including DenseNet, CNN, Efficient NetB7, and VGG19. Transfer learning leverages the knowledge captured by these pre-trained models, allowing the Al system to understand and recognize patterns in medical imaging data more effectively. The models have been fine-tuned to adapt to the specific task of Alzheimer's disease prediction, enhancing their accuracy and performance.
 Ensemble learning further boosts the predictive power of the system by combining the outputs of these diverse models. As per the table in results, we can see that the accuracy of our proposed model is highest.
+
+
 ![image](https://github.com/PranavNahe/Ensemble-DNNs-for-Alzheimer-s-Disease-Classification-via-Transfer-Learning/assets/81244950/9bedbb67-18e9-48bb-981b-f13a6b020927)
 
 ![image](https://github.com/PranavNahe/Ensemble-DNNs-for-Alzheimer-s-Disease-Classification-via-Transfer-Learning/assets/81244950/2e8a1e10-fa2e-4dd7-a6e7-8dfca91def98)
